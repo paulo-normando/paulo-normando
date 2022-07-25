@@ -42,7 +42,7 @@ I'm an Android developer from Brazil, who loves new challenges and doesn't miss 
 <img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white"/>
 <img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 
-##
+##Conect with me
 
 <div> 
  
