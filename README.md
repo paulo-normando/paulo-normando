@@ -14,14 +14,14 @@ I'm an Android developer from Brazil, who loves new challenges and doesn't miss 
 
 </div>
 
-## What is my focus
+## 🎯 What is my focus
 <img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 <img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
 
 
 
-### What i'm studying
+### 📖 What i'm studying
 <img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 <img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
 <img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
@@ -29,7 +29,7 @@ I'm an Android developer from Brazil, who loves new challenges and doesn't miss 
 
 
 
-### What I have worked and studied in the past (and will continue to study)
+### ✅ What I have worked and studied in the past (and will continue to learn)
 <img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 <img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
