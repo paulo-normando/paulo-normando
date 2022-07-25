@@ -7,7 +7,7 @@ I'm an Android developer from Brazil, who loves new challenges and doesn't miss 
 
 <div>
 
-## Stats
+### Stats
 <img height="130em" style="margin: 0 16px 0 90px" src = "https://github-readme-stats.vercel.app/api?username=paulo-normando&show_icons=true&theme=dracula"/> 
 <img height="130em" style="margin: 0 16px 0 90px" src = "https://github-readme-streak-stats.herokuapp.com?user=paulo-normando&theme=dracula"/>
 <img height="130em" style="margin: 0 16px 0 90px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-normando&layout=compact&theme=dracula"/>
@@ -21,7 +21,7 @@ I'm an Android developer from Brazil, who loves new challenges and doesn't miss 
 
 
 
-## What i'm studying
+### What i'm studying
 <img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 <img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
 <img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
@@ -29,7 +29,7 @@ I'm an Android developer from Brazil, who loves new challenges and doesn't miss 
 
 
 
-## What I have worked and studied in the past (and will continue to study)
+### What I have worked and studied in the past (and will continue to study)
 <img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 <img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
@@ -42,7 +42,7 @@ I'm an Android developer from Brazil, who loves new challenges and doesn't miss 
 <img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white"/>
 <img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 
-##Conect with me
+## Conect with me
 
 <div> 
  
