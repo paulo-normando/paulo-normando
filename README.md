@@ -29,7 +29,7 @@ I'm an Android developer from Brazil, who loves new challenges and doesn't miss 
 
 
 
-## ✅ What I have worked and studied in the past (and will continue to learn)
+## ✅ What I have worked with and studied in the past (and will continue to learn)
 <img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 <img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
