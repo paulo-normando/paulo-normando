@@ -6,10 +6,11 @@
 
 <div>
 
-<img height="130em" style="margin: 0 16px 0 90px" src = "https://github-readme-stats.vercel.app/api?username=paulo-normando&show_icons=true&theme=dracula"/> 
-<img height="130em" style="margin: 0 16px 0 90px" src = "https://github-readme-streak-stats.herokuapp.com?user=paulo-normando&theme=dracula"/>
-<img height="130em" style="margin: 0 16px 0 90px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-normando&layout=compact&theme=dracula"/>
- I'm an Android developer from Brazil, who loves new challenges and doesn't miss the opportunity to learn new things. I'm organized, punctual and always available to help you, I try to be surrounded by people who bring out the best in me, helping me to always perform to the best of my ability. So I want to share with you a little bit of what I feel when I program and give back with everything I know.
+<img height="110em" style="margin: 0 16px 0 90px" src = "https://github-readme-stats.vercel.app/api?username=paulo-normando&show_icons=true&theme=dracula"/> 
+<img height="110em" style="margin: 0 16px 0 90px" src = "https://github-readme-streak-stats.herokuapp.com?user=paulo-normando&theme=dracula"/>
+<img height="110em" style="margin: 0 16px 0 90px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-normando&layout=compact&theme=dracula"/>
+
+I'm an Android developer from Brazil, who loves new challenges and doesn't miss the opportunity to learn new things. I'm organized, punctual and always available to help you, I try to be surrounded by people who bring out the best in me, helping me to always perform to the best of my ability. So I want to share with you a little bit of what I feel when I program and give back with everything I know.
 
 </div>
 
