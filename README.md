@@ -18,8 +18,8 @@ I'm an Android developer from Brazil, who loves new challenges and doesn't miss 
 <img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 <img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
-
-
+ 
+ 
 
 ## 📖 What i'm studying
 <img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
@@ -49,6 +49,14 @@ I'm an Android developer from Brazil, who loves new challenges and doesn't miss 
   <a href="https://www.linkedin.com/in/paulo-normando-469726a0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:paulonormando@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
+## 📲 Some of my work
+
+![WhatsApp_Video_2022-07-07_at_08_04_52_AdobeExpress](https://user-images.githubusercontent.com/91965545/179321635-1e9461bd-d677-44d7-8105-d909efccd72f.gif)
+![WhatsApp_Video_2022-07-20_at_14_11_41_AdobeExpress](https://user-images.githubusercontent.com/91965545/180045355-863a47b5-3027-4a04-874d-c119d0c36d10.gif)
+![WhatsApp_Video_2022-07-12_at_08_50_37_AdobeExpress (1)](https://user-images.githubusercontent.com/91965545/178485716-f7fc7fe5-bdbe-4022-a535-3376287ff356.gif)
+![hitpaw-1657994434549](https://user-images.githubusercontent.com/91965545/179367059-5783422c-b876-4e7e-90a2-09363ddfe7f8.gif)
+![image](https://user-images.githubusercontent.com/91965545/178483382-8354278e-faef-4b5c-921b-c9f1039d2796.png)
+ 
 ![snake gif](https://github.com/paulo-normando/paulo-normando/blob/output/github-contribution-grid-snake.svg)
   
  </div>
