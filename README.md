@@ -14,7 +14,7 @@ I'm an Android developer from Brazil, who loves new challenges and doesn't miss 
 
 </div>
 
-## 🎯 What is my focus
+### 🎯 What is my focus
 <img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 <img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
@@ -42,7 +42,7 @@ I'm an Android developer from Brazil, who loves new challenges and doesn't miss 
 <img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white"/>
 <img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 
-## Conect with me
+### 🤝 Conect with me
 
 <div> 
  
