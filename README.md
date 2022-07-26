@@ -17,13 +17,13 @@ I'm an Android developer from Brazil, who loves new challenges and doesn't miss 
 ## 🎯 What is my focus
 <img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 <img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+<img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
  
  
 
 ## 📖 What i'm studying
 <img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+<img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 <img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 <img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 
@@ -32,7 +32,13 @@ I'm an Android developer from Brazil, who loves new challenges and doesn't miss 
 ## ✅ What I have worked with and studied in the past (and will continue to learn)
 <img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+<img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683"/>
 <img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+<img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"/>
 <img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/>
 <img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 <img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white"/>
@@ -41,6 +47,8 @@ I'm an Android developer from Brazil, who loves new challenges and doesn't miss 
 <img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 <img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white"/>
 <img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+<img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/>
+
   
 ## 📲 Some of my work
 ![WhatsApp_Video_2022-07-20_at_14_11_41_AdobeExpress (1)](https://user-images.githubusercontent.com/91965545/180992646-9ecb3ce6-f358-4186-856a-403628edc2fa.gif)
@@ -57,6 +65,7 @@ I'm an Android developer from Brazil, who loves new challenges and doesn't miss 
 
 <div> 
  
-  <a href="https://www.linkedin.com/in/paulo-normando-469726a0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:paulonormando@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/paulo-normando-469726a0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "mailto:paulonormando@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href = "+5591984255642"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   
