@@ -23,9 +23,7 @@ I'm an Android developer from Brazil, who loves new challenges and doesn't miss 
 
 ## 📖 What i'm studying
 <img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-<img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+<img height="18em" style="margin: 0 16px 0 90px" src = "https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>badge&logo=visual%20studio%20code&logoColor=white"/>
 
 
 
